@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+#ordersummary {
+  border: 1px solid green;
+}
+
+button {
+  color: white;
+  border: none;
+  background-color: green;
+  height: 30px;
+  width: auto;
+}
+
+#increment-el {
+  color: white;
+  border: none;
+  background-color: green;
+  height: 30px;
+  width: 30px;
+}
+
+#decrement-el {
+  color: white;
+  border: none;
+  background-color: green;
+  height: 30px;
+  width: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: green;
+}
